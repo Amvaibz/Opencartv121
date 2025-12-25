@@ -1,0 +1,54 @@
+19:57:14.941 [main] %-Slevel testCases.TC002_LoginTest - ******* Starting login test ********
+19:57:16.999 [main] %-Slevel testCases.TC002_LoginTest - ******* Finished login test ********
+19:59:39.010 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\CrossBrowserTesting.xml
+
+20:01:24.107 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\CrossBrowserTesting.xml
+
+20:01:24.182 [TestNG-tests-3] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+20:01:31.967 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+20:01:31.968 [TestNG-tests-2] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+20:01:32.066 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on myAccount link***
+20:01:32.102 [TestNG-tests-2] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on myAccount link***
+14:58:11.733 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\testng.xml
+
+14:58:18.960 [main] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+14:58:19.103 [main] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on myAccount link***
+14:58:19.576 [main] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on Register link***
+14:58:19.577 [main] %-Slevel testCases.TC001_AccountRegistrationTest - ***providing customer details***
+14:58:20.944 [main] %-Slevel testCases.TC001_AccountRegistrationTest - ***validating confirmation messege**
+14:58:20.978 [main] %-Slevel testCases.TC001_AccountRegistrationTest - ******** finished TC001_AccountRegistrationTest ******
+14:58:24.960 [main] %-Slevel testCases.TC002_LoginTest - ******* Starting login test ********
+14:58:26.608 [main] %-Slevel testCases.TC002_LoginTest - ******* Finished login test ********
+14:59:47.149 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\docker_grid.xml
+
+14:59:53.837 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+14:59:54.289 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on myAccount link***
+14:59:55.112 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on Register link***
+14:59:55.112 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***providing customer details***
+14:59:57.093 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***validating confirmation messege**
+14:59:57.153 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ******** finished TC001_AccountRegistrationTest ******
+14:59:59.086 [TestNG-tests-1] %-Slevel testCases.TC002_LoginTest - ******* Starting login test ********
+15:00:00.820 [TestNG-tests-1] %-Slevel testCases.TC002_LoginTest - ******* Finished login test ********
+15:02:26.585 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\docker_grid.xml
+
+15:02:32.545 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+15:02:32.693 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on myAccount link***
+15:02:33.270 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on Register link***
+15:02:33.271 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***providing customer details***
+15:02:35.647 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***validating confirmation messege**
+15:02:35.685 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ******** finished TC001_AccountRegistrationTest ******
+15:02:40.479 [TestNG-tests-1] %-Slevel testCases.TC002_LoginTest - ******* Starting login test ********
+15:02:41.977 [TestNG-tests-1] %-Slevel testCases.TC002_LoginTest - ******* Finished login test ********
+15:04:22.035 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\docker_grid.xml
+
+15:04:24.896 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******
+15:04:25.133 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on myAccount link***
+15:04:25.775 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***clicked on Register link***
+15:04:25.775 [TestNG-tests-1] %-Slevel testCases.TC001_AccountRegistrationTest - ***providing customer details***
+15:04:37.751 [TestNG-tests-2] %-Slevel testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ******

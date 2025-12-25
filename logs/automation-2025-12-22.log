@@ -1,0 +1,54 @@
+15:51:42.705 [TestNG-tests-3] %-Slevel testCases.TC001_AccountRegistrationTest - ***providing customer details***
+15:51:44.178 [TestNG-tests-3] %-Slevel testCases.TC001_AccountRegistrationTest - ***validating confirmation messege**
+15:51:54.201 [TestNG-tests-3] %-Slevel testCases.TC001_AccountRegistrationTest - Test Failed
+16:02:12.862 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\testng.xml
+
+16:02:37.611 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\testng.xml
+
+16:03:30.028 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\testng.xml
+
+16:03:49.056 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\CrossBrowserTesting.xml
+
+16:04:16.433 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\CrossBrowserTesting.xml
+
+16:05:24.737 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\CrossBrowserTesting.xml
+
+16:07:25.127 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vaibz\eclipse-workspace\selenium2\opencart121\src\test\java\testCases\CrossBrowserTesting.xml
+
+16:08:49.828 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.832 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:08:49.833 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.833 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.833 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.833 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.834 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.834 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.839 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+16:08:49.845 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+16:08:49.846 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.847 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.847 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.847 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.847 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.848 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.849 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.849 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.849 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.849 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.851 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.851 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.851 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.851 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.852 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:08:49.852 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.853 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.853 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:08:49.853 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:08:49.853 [main] %-Slevel org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
